@@ -124,6 +124,8 @@ alias rub=/usr/bin/ruby
 alias xgl=/usr/games/xgalaga-hyperspace
 alias xm='xmodmap'
 alias xme='xmodmap -e'
+alias bkv='cp ~/.vimrc ~/repos/KaliBackup'
+alias bkb='cp ~/.bashrc ~/repos/KaliBackup'
 
 # Git aliases
 alias gpr='source ~/set_gitprompt'

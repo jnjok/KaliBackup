@@ -1,1 +1,1 @@
-set tabstop=2
+/home/jnj/.vimrc

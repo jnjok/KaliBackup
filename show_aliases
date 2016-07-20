@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tail -n25 ~/.bashrc
